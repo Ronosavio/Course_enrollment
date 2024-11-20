@@ -7,13 +7,13 @@ from pydantic import BaseModel, SecretStr, ValidationError, EmailStr, field_vali
 import getpass
 import keyboard
 
-#NOTICE : I HAVEN'T FINISHED THE COMPLETE WORKING OF THIS CODE.IT STILL WORKS BUT I DO HAVE THINGS TO ADD UP TO IT.
 
 class Courses(ABC):
       @abstractmethod
       def course(username):
           pass
-      
+            
+ #change the path to the location of your module present in your local system for all the methods       
 class Machine_learning(Courses):
       count = 0
       def course(username):
