@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "username": "rono",
+            "email": "saviorono@gmail.com",
+            "password": "Rono@006#"
+        },
+        {
+            "username": "zion",
+            "email": "zionnissy456@gmail.com",
+            "password": "Zion@006#"
+        },
+        {
+            "username": "ronosavio",
+            "email": "saviorono@gmail.com",
+            "password": "Kuku@006#"
+        },
+        {
+            "username": "Rono Savio",
+            "email": "saviorono@gmail.com",
+            "password": "Kuku@006#"
+        },
+        {
+            "username": "Tharun",
+            "email": "saviorono@gmail.com",
+            "password": "Tharun@006#"
+        }
+    ]
+}
